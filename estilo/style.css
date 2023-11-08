@@ -134,7 +134,7 @@ article img {
     width: 100%;
 }
 
-article.imagem-pequena {
+article img.imagem-pequena {
     max-width: 350px;  
     display: block;
     margin: auto;
